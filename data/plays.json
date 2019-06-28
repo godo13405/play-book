@@ -1,0 +1,1579 @@
+[{
+        "id": "1.01",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Hire designers to build out internal design service agency",
+            "body": "This plus a manager is a first step to creating an internal UX agency.",
+            "success": "Teams have access to readily-available design talent."
+        }
+    }, {
+        "id": "1.02",
+        "stages": {
+            "competence": [1, 2],
+            "literacy": 0,
+            "team": 2
+        },
+        "content": {
+            "title": "Embed designers into product/service teams",
+            "body": "There’s enough demand from critical product/service teams to dedicate design resources to their cause.",
+            "success": "Teams push out better designs because they have attention throughout their development process."
+        }
+    }, {
+        "id": "1.03",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Initiate a usability testing program",
+            "body": "Provide feedback to product/service teams about how usable their designs are (or aren’t).",
+            "success": "Teams are improving their product/service user experience and seeing positive changes in user behaviors."
+        }
+    }, {
+        "id": "1.04",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Make “showcase projects” and take co-workers along on the journey",
+            "body": "Communicate the value of design by showing how it’s changed user behavior.",
+            "success": "Demand for design services increases."
+        }
+    }, {
+        "id": "1.05",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Hire a design manager to start an internal design service agency",
+            "body": "Put the organization's first design leader into play.",
+            "success": "The new manager attracts a talented team of designers, ready to build out the internal design agency."
+        }
+    }, {
+        "id": "1.06",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 2
+        },
+        "content": {
+            "title": "Create dovetails with product/service team processes",
+            "body": "Research what each product/service team is using for their process and identify where your design process fits in.",
+            "success": "You’ve eliminated friction due to process mismatches."
+        }
+    }, {
+        "id": "1.07",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Surface common user frustrations",
+            "body": "Create communication vehicles to help the rest of the organization understand where users become frustrated.",
+            "success": "Solving common frustrations becomes a top priority in the organization."
+        }
+    }, {
+        "id": "1.08",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 2
+        },
+        "content": {
+            "title": "Institute saying ‘no’ when product team is too late in the process or without resource commitment",
+            "body": "Use product team readiness as a way to prioritize projects the UX team takes on.",
+            "success": "Teams that weren't valuing UX now show up early and participate actively."
+        }
+    }, {
+        "id": "1.09",
+        "stages": {
+            "competence": [2, 3],
+            "literacy": 2,
+            "team": 4
+        },
+        "content": {
+            "title": "Build a toolkit for embedded designers to spread design knowledge throughout their teams",
+            "body": "Create resources promoting design literacy to non-designers of the product/service teams, such as design systems.",
+            "success": "Non-designers start to become comfortable doing their own design activities."
+        }
+    }, {
+        "id": "1.10",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Identify hidden champions affected by the cost of frustration",
+            "body": "Look for how poor UX causes problems on the bottom line. Find who owns those bottom line outcomes.",
+            "success": "A powerful champion becomes a believer in UX’s business outcomes, having not thought about it before."
+        }
+    }, {
+        "id": "1.11",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 2
+        },
+        "content": {
+            "title": "Build out user research infrastructure",
+            "body": "Create administrative services to schedule, recruit, and facilitate regular user research.",
+            "success": "Teams frequently conduct user research without spending significant time on study administration."
+        }
+    }, {
+        "id": "1.12",
+        "stages": {
+            "competence": [2, 3],
+            "literacy": 2,
+            "team": 2
+        },
+        "content": {
+            "title": "Build an advanced research program to train teams on new technologies",
+            "body": "Develop in-house expertise on new UX-related technologies and practices.",
+            "success": "Teams can jump on opportunities involving new technology faster than their competition."
+        }
+    }, {
+        "id": "1.13",
+        "stages": {
+            "competence": [2, 3],
+            "literacy": 2,
+            "team": 2
+        },
+        "content": {
+            "title": "Benchmark team productivity because of enhanced design tools",
+            "body": "Show the UX team’s contribution by showing how teams are getting products/services to market faster.",
+            "success": "You can speak directly to how UX tools make teams more efficient."
+        }
+    }, {
+        "id": "1.14",
+        "stages": {
+            "competence": [1, 2],
+            "literacy": 1,
+            "team": 3
+        },
+        "content": {
+            "title": "Determine content governance",
+            "body": "Identify who is responsible for each phase of your content’s life cycle.",
+            "success": "Content across the organization has clear ownership."
+        }
+    }, {
+        "id": "1.15",
+        "stages": {
+            "competence": [2, 3],
+            "literacy": 2,
+            "team": 4
+        },
+        "content": {
+            "title": "Institute executive-supported programs to ensure products don’t ship until they are well designed",
+            "body": "Change the criteria for shipping to meet agreed-upon minimum design quality.",
+            "success": "Executives stand behind the decision to hold a product/service back until design issues are resolved."
+        }
+    }, {
+        "id": "1.16",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute explicit stating of team’s expectations to compare to observations",
+            "body": "Before research, have team members state what they think they'll see, then compare to actual observations.",
+            "success": "Teams realize research is better than their guesses about user behavior."
+        }
+    }, {
+        "id": "1.17",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Surface where design has happened unintentionally or intentionally",
+            "body": "Point out how problems and successes happened because of the current design process.",
+            "success": "Teams change their processes to produce intentional design."
+        }
+    }, {
+        "id": "1.18",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 2
+        },
+        "content": {
+            "title": "Institute asking “Are we doing things because that's the way we've always done them?”",
+            "body": "Create reflective moments where teams can ask themselves if their process should be more deliberate.",
+            "success": "Teams start taking an active role in their own design process."
+        }
+    }, {
+        "id": "1.19",
+        "stages": {
+            "competence": [2, 3],
+            "literacy": 2,
+            "team": 2
+        },
+        "content": {
+            "title": "Create a design squad to build demo visuals & prototypes for executives to see progress",
+            "body": "Keep product teams focused by giving design squad the visualization assignments for exec briefings.",
+            "success": "Sudden requests for executive show-and-tell briefings don’t disrupt the team’s workflow."
+        }
+    }, {
+        "id": "1.20",
+        "stages": {
+            "competence": [2, 3],
+            "literacy": 2,
+            "team": 2
+        },
+        "content": {
+            "title": "Identify existing explicit & implicit rewards that conflict with delivering great designs",
+            "body": "Look for places where reward systems are forcing poor design to ship.",
+            "success": "Reward systems are changed to emphasize UX quality."
+        }
+
+
+    }, {
+        "id": "1.21",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Initiate a UX-driven data science program",
+            "body": "Identify and measure sophisticated UX metrics that help show improvements and guide decision making.",
+            "success": "Your data science team has shown how UX improvements created new value for the organization."
+        }
+    }, {
+        "id": "1.22",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Integrate CX efforts with UX efforts",
+            "body": "Merge market-driven customer experience efforts with design- driven UX efforts, to create cohesive experiences.",
+            "success": "One team is responsible for both qualitative and quantitative improvements to products and services."
+        }
+    }, {
+        "id": "1.23",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Eliminate UX-based titles (UX is everyone's responsibility)",
+            "body": "Move away from UX as a separate responsibility by the organization’s designers, focusing everyone on improvements.",
+            "success": "People who never considered themselves UX designers now take active responsibility for the design outcomes."
+        }
+    },
+    {
+        "id": "1.24",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Reorganize teams based on experiences, not product lines",
+            "body": "Change product owners to experience owners; PMs to EMs. Focus the organization on end-to-end experiences.",
+            "success": "One owner takes responsibility for the entire customer’s experience, from start to finish."
+        }
+    }, {
+        "id": "1.25",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Promote Customer Lifetime Journeys",
+            "body": "Collect data of entire lifetime for key customers. Promote to influencers across the org to show disconnects in service.",
+            "success": "Teams focus on continuity projects that help customers progress through lifecycle stages."
+        }
+    },
+    {
+        "id": "1.26",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Socialize an experience vision throughout the organization",
+            "body": "Establish a 5-year vision of what the experience will be like. Ensure the entire organization consistently hears about it.",
+            "success": "Senior leadership regularly brings up the vision when talking about new features and requirements."
+        }
+    }, {
+        "id": "1.27",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Start large projects by building internal design expertise",
+            "body": "Stop using outside experts for critical design. Build the expertise in house.",
+            "success": "You have enough internal expertise to handle new initiatives."
+        }
+    }, {
+        "id": "1.28",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Move from solution-based naming of projects & teams to problem-space terms",
+            "body": "Stop defining the solution in the name of the project. Instead, describe the problem in the team. “Broader access” instead of “Mobile team.”",
+            "success": "Teams have the freedom to go beyond the initial planned deliverable, because they aren’t bound by their name."
+        }
+    }, {
+        "id": "2.01",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Socialize journey maps",
+            "body": "Produce and disseminate the customers’ journeys, showing which portions frustrate and which delight users.",
+            "success": "People who previously weren’t talking about the users’ experience regularly talk about the journeys."
+        }
+    }, {
+        "id": "2.02",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute a field visit program",
+            "body": "Create opportunities for team members to meet and observe users in their own environment.",
+            "success": "Teams ask for field visits throughout their development process to research and validate their understanding."
+        }
+    }, {
+        "id": "2.03",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Socialize exposure",
+            "body": "Create awareness about processes and benefits of team members exposed to users. Measure accumulation of exposure.",
+            "success": "Teams start measuring amount of exposure they’re getting and work to improve."
+        }
+    }, {
+        "id": "2.04",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Adopt custom frameworks and components",
+            "body": "Produce reusable code elements for common UI interactions, meeting design and organizational standards.",
+            "success": "Teams become faster at putting out cohesive-feeling new enhancements and features."
+        }
+    }, {
+        "id": "2.05",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Conduct a content inventory",
+            "body": "Identify and track all of the content the organization makes available to users and customers.",
+            "success": "Teams stop discovering repositories of content nobody knew about."
+        }
+    }, {
+        "id": "2.06",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Initiate tracking of basic UX metrics",
+            "body": "Instrument products to track measures that correlate directly to important UX outcomes and behaviors.",
+            "success": "Teams use collected data to identify design problems and successes."
+        }
+    }, {
+        "id": "2.07",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute integrated product and content strategy",
+            "body": "Combine product and content development efforts, optimizing delivery tools, quality measures, and processes.",
+            "success": "Product and content developers work together to deliver new, seamless user experiences."
+        }
+    }, {
+        "id": "2.08",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Initiate a service design program",
+            "body": "Identify, map, and optimize the end-to-end delivery of service to customers, employees, and supply-chain vendors.",
+            "success": "The team is measuring success by looking at the entire customer experience, not just the online portions."
+        }
+    }, {
+        "id": "2.09",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute “What customer problem is this solving?” into enhancement discussions",
+            "body": "Force teams to state every new feature or enhancement in terms of a recognized customer problem.",
+            "success": "Teams use identified customer problems to drive priorities and success measures."
+        }
+    },
+    {
+        "id": "2.10",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Shift from requirements gathering to assumption validation",
+            "body": "Use hypothesis testing and Lean UX to test whether requirements are understood and valid.",
+            "success": "Teams meet the users’ needs by deriving new functionality from early user research."
+        }
+    }, {
+        "id": "2.11",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute identifying each project’s secondary influencers",
+            "body": "Pinpoint and engage individuals who will exert influence over the final design, even though they aren’t designers.",
+            "success": "Teams deliver successful products by engaging secondary influencers, such as lawyers and execs, in the process."
+        }
+    },
+    {
+        "id": "2.12",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute involving secondary influencers into projects early",
+            "body": "Invite secondary influencers (lawyers, execs, field personnel) to kickoff projects and validate assumptions about the users.",
+            "success": "Secondary influencers become contributing team members, pushing through obstacles because they understand intent."
+        }
+    }, {
+        "id": "2.13",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Conduct a microcopy inventory",
+            "body": "Go through screens, dialog boxes, forms, and error messages to find all instances of microcopy embedded in the design.",
+            "success": "The team can put a microcopy strategy in place to ensure a cohesive user experience across all aspects of the product."
+        }
+    }, {
+        "id": "2.14",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute workshop-based project kickoff meetings",
+            "body": "Create a standardized process for starting new projects that engages stakeholders and influencers.",
+            "success": "Teams attain a shared understanding of each project’s goals and process, with each member clear on their contribution."
+        }
+    }, {
+        "id": "2.15",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute journey maps as a strategy tool",
+            "body": "Research and produce journey maps to use as the basis of the product roadmap and organization delivery strategy.",
+            "success": "Product roadmaps are driven by eliminating user frustrations and increasing customer delight."
+        }
+    }, {
+        "id": "2.16",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute a formal discovery phase for every project",
+            "body": "Using techniques such as design sprints or Lean UX, create a comprehensive research-based project initiation phase.",
+            "success": "The team emerges with a detailed, shared understanding of true customer needs for the product or service."
+        }
+    }, {
+        "id": "2.17",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute categorizing support calls dealing with UX problems",
+            "body": "Regularly collect and analyze customer support calls to isolate UX related problems. Track changes as products are updated.",
+            "success": "You can calculate savings due to UX enhancements that substantially reduce support costs, increasing satisfaction."
+        }
+    }, {
+        "id": "2.18",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute bringing developers and PMs on field studies",
+            "body": "Expand the field study program to include exposing developers and product managers to customers on a regular basis.",
+            "success": "Developers and product managers are producing better designs because they have first hand knowledge of what users do."
+        }
+    }, {
+        "id": "2.19",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute using story mapping to create user stories",
+            "body": "Create agile user stories from journey maps, using a technique such as story mapping.",
+            "success": "Stories placed into the backlog form a cohesive user experience, with developers and PMs understanding intent."
+        }
+    }, {
+        "id": "2.20",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute identifying customer problems using the Kano model in regular field study synthesis",
+            "body": "After each field visit, catalog observations of product complexity, missed expectations, and opportunities for delight.",
+            "success": "Patterns emerge from studies that clearly show opportunities for value-adding enhancements to the users’ experiences."
+        }
+    }, {
+        "id": "2.21",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute regular identification of experience rot caused by too many features",
+            "body": "Look to frequent user research to see where design complexity is creating increasing user frustrations.",
+            "success": "Teams identify complexity before it creates user problems, and develop a strategy for simplifying the overall design."
+        }
+    }, {
+        "id": "2.22",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute a program for identifying missed expectations",
+            "body": "Regularly study product/service use, looking for users’ expectations that are currently missed.",
+            "success": "Teams reduce customer frustration by quickly isolating missed expectations and enhancing the design."
+        }
+    }, {
+        "id": "2.23",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Adopt a message architecture",
+            "body": "Research and plan the conversation that the design will have with the user through every interaction.",
+            "success": "Teams produce designs that feel like natural conversations to users for accomplishing their objectives."
+        }
+    }, {
+        "id": "2.24",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Study pre-sales experiences",
+            "body": "Create a research project to conduct an in-depth study of how customers behave as they are deciding which product/service to buy.",
+            "success": "Teams identify solid opportunities to meet customer desires and communicate product/service benefits during pre-sale."
+        }
+    }, {
+        "id": "2.25",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Study churn triggers",
+            "body": "Create a research project to identify reasons for customers to leave the product/service and methods to reduce churn.",
+            "success": "Teams identify enhancements that lower the churn rate and increase lifetime customer value."
+        }
+    }, {
+        "id": "2.26",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Study post-sales (or unsubscribe) experiences",
+            "body": "Create a research program to identify what happens after the product is purchased or the customer leaves the service.",
+            "success": "Teams identify opportunities to win future sales or renewals, increasing the lifetime value of the customer."
+        }
+    }, {
+        "id": "2.27",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Conduct content modelling",
+            "body": "Create a detailed representation of how the information in the design is organized, categorized, and represented.",
+            "success": "Editorial process and content delivery are enhanced through a solid understanding of how the content is organized and used."
+        }
+    }, {
+        "id": "2.28",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Integrate independent organizational initiatives into a coherent experience-based strategy",
+            "body": "Map out initiatives across the organization, combined with researched customer problems, to create a single UX strategy.",
+            "success": "Organizational groups are working together for a successful execution of the strategy."
+        }
+    }, {
+        "id": "2.29",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute including executives and key influencers on field visits",
+            "body": "Give executives and key influencers regular exposure to users and the contexts in which they use the product/service.",
+            "success": "Executives and key influencers are making strategic decisions from seeing the users in their own environment."
+        }
+    }, {
+        "id": "2.30",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Build an advanced team to research customer situations and problems for future enhancements",
+            "body": "Look at the roadmap and work with product owners to deliver research about future planned functionality.",
+            "success": "Teams start new projects with a rich portfolio of research about the customer problems and user environments."
+        }
+    }, {
+        "id": "2.31",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute themed road maps (Customer-problem driven product strategy)",
+            "body": "Switch roadmap planning from listing a feature schedule to a schedule of customer problems the product/service will solve.",
+            "success": "Roadmap is filled with well-defined and researched customer problems to solve, giving product a competitive edge."
+        }
+    }, {
+        "id": "2.32",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Identify UX KPIs",
+            "body": "Study and model behavioral measures to determine those which predict key product success or failure conditions.",
+            "success": "Teams can identify changes in user behavior that will predict important deviations in business performance."
+        }
+    }, {
+        "id": "2.33",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Identify “well-designed” experience requirements for shipping",
+            "body": "Describe a minimum set of user experience criteria to ensure that the product meets the standards of being “well-designed.”",
+            "success": "Product strategies and delivery plans are revised because products are not on track to meet minimum criteria."
+        }
+    },
+    {
+        "id": "2.34",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Shift product delivery process to continuous improvement",
+            "body": "Change from batched functionality delivery points to pushing new functionality constantly.",
+            "success": "Product/service is constantly improving through frequent small changes. Quick changes don’t disrupt user experience."
+        }
+    }, {
+        "id": "2.35",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute mini creative briefs",
+            "body": "Start every design discussion reviewing a short, agreed upon brief that describes the objective, personas, scenarios, and principles to focus conversation.",
+            "success": "Team members know what’s expected from them and have productive design discussions."
+        }
+    }, {
+        "id": "2.36",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Socialize visions of frustration-free experiences",
+            "body": "Create communication vehicles of the ideal user experience the team wants to deliver.",
+            "success": "Everyone has a shared understanding and can describe what the ideal, frustration-free user experience will be."
+        }
+    }, {
+        "id": "2.37",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Surface how customer/user problems match to corporate priorities",
+            "body": "For each corporate priority, describe the specific customer problems it addresses.",
+            "success": "Everyone has a shared understanding of how each corporate priority solves a problem for the customer."
+        }
+    }, {
+        "id": "2.38",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Identify influencers along key journeys",
+            "body": "As you create maps of key user journeys, identify which people in the organization exert influence over the users’ experience.",
+            "success": "Teams can identify which influencers to bring into the design process to create better experiences."
+        }
+    },
+    {
+        "id": "2.39",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute regular research of stories people tell each other about your products/services",
+            "body": "Collect and analyze the stories customers tell about their experience with your product.",
+            "success": "Teams get insight into what is important to users and how their designs create good and bad impressions."
+        }
+    }, {
+        "id": "2.40",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Abandon relying on (or rewarding) proxy metrics",
+            "body": "Identify where teams rely on metrics such as Net Promoter, conversion rate, and shallow analytics (bounce rate), and replace with custom UX metrics specific to delivering value.",
+            "success": "Optimizing for new metrics produces measurable increases in value to the business and to the customer."
+        }
+    }, {
+        "id": "2.41",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Convert transformation-halting constraints into explicit design challenges",
+            "body": "Identify constraints preventing significant product improvements and promote them as challenges to overcome.",
+            "success": "Teams overcome previously unassailable constraint to realize massive improvements in the product/service."
+        }
+    }, {
+        "id": "2.42",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute UX vision-driven roadmapping",
+            "body": "Based on user research, create a UX vision to identify improvements to the existing products and deliver new functionality.",
+            "success": "Product managers create roadmaps using a well-researched UX vision to serve as the guiding ‘North Star.’"
+        }
+    }, {
+        "id": "2.43",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Create design principles specifically around basic expectations",
+            "body": "Look for patterns in research to craft design principles that help teams ensure they meet basic expectations.",
+            "success": "Teams are more likely to meet expectations in new functionality or enhancements because they follow principles."
+        }
+    }, {
+        "id": "2.44",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Pair designers with developers for joint asset creation",
+            "body": "Daily collaboration creates better designs and components, through quick iteration and frequent reviews.",
+            "success": "Product design and development is more collaborative, eliminating handoffs, and producing better designs faster."
+        }
+    }, {
+        "id": "2.45",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute per project lightweight behavior-based personas and scenarios",
+            "body": "Conduct quick field studies to identify different personas and scenarios for specific functionality.",
+            "success": "Teams gain a quick shared understanding of different users and their needs for part of the design they are working on."
+        }
+    }, {
+        "id": "2.46",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute per project lightweight design principles",
+            "body": "Conduct quick field studies to identify design principles for specific functionality.",
+            "success": "Team has localized principles to guide decisions on the specific functionality they are working on."
+        }
+    }, {
+        "id": "2.47",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute regular “Design the meaningful story” sessions for key features",
+            "body": "Focus on increasing delight through intentionally designed meaning that users gain from their experience with the product.",
+            "success": "Users repeat the stories the designers intended and are strongly engaged with the product (and its brand)."
+        }
+    }, {
+        "id": "2.48",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Initiate frustration-driven metrics program",
+            "body": "Identify where key frustrations happen for users and instrument the design to collect their frequency and serverity.",
+            "success": "Teams identify opportunities to remove UX frustration that nobody knew was happening to users."
+        }
+    }, {
+        "id": "2.49",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute CE11 (or equivalent) engagement metrics",
+            "body": "Instrument the product/service to collect data on customer engagement at key interaction touch points.",
+            "success": "Teams learn to optimize design solutions to increase customer engagement."
+        }
+    }, {
+        "id": "2.50",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Integrate outcome quality into metrics",
+            "body": "Identify methods and instrument the design to collect metrics on the quality of the outcomes from the users’ experience with the product/service.",
+            "success": "Team learns to optimize design solutions to increase quality of outcomes."
+        }
+    }, {
+        "id": "2.51",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Initiate listening-based user research program",
+            "body": "Create studies that employ listening techniques (such as World Café and Collective Story Harvesting) to gain insights from customers not accessible from plain interviews or observations.",
+            "success": "Teams identify opportunities to create better user experiences for situations that are difficult to research other ways."
+        }
+    }, {
+        "id": "2.52",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Focus design efforts to get the 2nd quintile users to behave like the 1st quintile users",
+            "body": "Using performance metrics (such as money spent), study the behavioral differences between the top two quintiles of users.",
+            "success": "Team identifies design enhancements that change the 2nd quintile’s behavior to perform at the same level as the 1st."
+        }
+    }, {
+        "id": "2.53",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Create business models to make users the primary customers",
+            "body": "For a business where the customer/buyer isn’t the user, shift the organization’s focus from buyers to users.",
+            "success": "Adjusting the priority to users over buyers can create more long-term value and overall customer engagement."
+        }
+    }, {
+        "id": "2.54",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Drive refactoring of experiences by replacing legacy platforms",
+            "body": "Work with engineering teams to identify experience issues caused by legacy systems and create a replacement plan.",
+            "success": "Collaboration with engineering produces significant gains in experiences."
+        }
+    }, {
+        "id": "2.55",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+
+            "title": "Create a consistent vocabulary of design terms",
+            "body": "Establish a common language across all designers in the org for design elements, processes, and techniques.",
+            "success": "Designers across the organization are using terms consistently."
+        }
+    }, {
+        "id": "2.56",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Use Subject Matter Experts as a Translator/Guide",
+            "body": "Shift SMEs from giving design recommendations & requirements to translating what teams see during research.",
+            "success": "SMEs observe users and deliver solid insight about details the team would have otherwise missed."
+        }
+    }, {
+        "id": "2.57",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Adopt a controlled vocabulary for products/services",
+            "body": "Create a unified source for terminology across all products and services. Ensure the terms match users’ expectations and meanings.",
+            "success": "Inconsistencies across products and services are eliminated."
+        }
+    }, {
+        "id": "2.58",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Eliminate written reports of research findings and replace them with interactive workshops",
+            "body": "Stop producing written reports. Instead, gather the team to explore the findings interactively, letting them derive their own recommendations.",
+            "success": "Teams bring the research into their decision making process because they feel ownership."
+        }
+    },
+    {
+        "id": "2.59",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Socialize how user experience issues hurt or help your organization’s brand",
+            "body": "Create communication vehicles that connect the frustrations and delights of users to how people engage with the brand.",
+            "success": "Stakeholders and executives see your product and service design as the primary steward of the brand experience."
+        }
+    }, {
+        "id": "2.60",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Connect customers’ stories to the user journeys that created those stories",
+            "body": "Initiate a continual research program to uncover the stories customers tell about your service. Communicate how those stories evolved from the experience with your product or service.",
+            "success": "Stakeholders and executives see the stories customers tell their friends and family can be intentionally designed."
+        }
+    }, {
+        "id": "2.61",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Pair designers together",
+            "body": "Have designers work in pairs. Instead of one designer assigned 100% to a project, assign 2 designers to a project for 50%.",
+            "success": "Designers are collaborating and creating better outcomes than if they’d worked solo on the project."
+        }
+    }, {
+        "id": "2.62",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Shift competitive analysis to focus on competitors’ customers instead of competitors’ products.",
+            "body": "Use competitive analysis activities to focus on the UX of competitive offerings.",
+            "success": "You regularly identify unmet needs by any competitor, giving your product/service a market-leading advantage."
+        }
+    }, {
+        "id": "3.01",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Conduct regular one-on-ones with UX team members",
+            "body": "Have weekly (or every other week) meeting to check in on each direct report.",
+            "success": "Directs report they feel like someone cares about their growth."
+        }
+    }, {
+        "id": "3.02",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute putting work on the walls",
+            "body": "As projects progress, dedicate wall space to show the progress and current thinking. Best in a public, well-trafficked place.",
+            "success": "Non-designers show an interest in the work."
+        }
+    }, {
+        "id": "3.03",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Assess UX competencies of UX team members",
+            "body": "Identify strengths and weaknesses across the team for all UX skills.",
+            "success": "You have a clear idea of where the team needs training or new talent to tackle upcoming challenges and opportunities."
+        }
+    }, {
+        "id": "3.04",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Ensure everyone has the tools they need",
+            "body": "Survey the UX team to identify tools they’re missing that are necessary to get their job done effectively.",
+            "success": "You’ve increased engagement and retention from your employees who are now delivering the best work possible."
+        }
+    },
+    {
+        "id": "3.05",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Infuse culture of constant design education within the UX team",
+            "body": "Institute habits and discussions to focus on learning new and better methods, tools, and techniques for design.",
+            "success": "Employees feel they are growing within their position by constantly learning new skills and capabilities."
+        }
+    }, {
+        "id": "3.06",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Adopt a “Show, don't tell” presentation approach",
+            "body": "When delivering work and recommendations, favor mockups, prototypes, and working components over documents, specifications, and reports.",
+            "success": "Receiving parties are engaged in the interactive presentations and integrate the results into their work."
+        }
+    }, {
+        "id": "3.07",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute regular critiques",
+            "body": "Put together a program of regularly scheduled critique sessions for sharing design decisions, techniques, and process.",
+            "success": "Team design skills improve overall, as team members learn from each other’s work."
+        }
+    }, {
+        "id": "3.08",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute regular design studios",
+            "body": "Infuse projects with a collaborative studio approach to gathering requirements, generating shared understanding, and producing generative design ideas.",
+            "success": "Teams see better engagement with peers and stakeholders, who learn to appreciate how design can contribute."
+        }
+    }, {
+        "id": "3.09",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Create a UI inventory to start a pattern library",
+            "body": "Collect design elements, such as buttons and navigation, and look for variations and commonalities.",
+            "success": "Teams identify patterns of use that can be compiled into reusable components and frameworks."
+        }
+    }, {
+        "id": "3.10",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Adopt living style guides",
+            "body": "Combine design pattern library with usage guides to help developers and others know how to effectively use components and frameworks.",
+            "success": "Developers and others produce working prototypes and product deliverables faster, with a cohesive look and feel."
+        }
+    }, {
+        "id": "3.11",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Adopt voice and tone guide",
+            "body": "Create guidance on how copy should communicate in a common voice and a consistent tone.",
+            "success": "Teams can create interface elements that have a consistent personality and adopt the correct tone for the situation."
+        }
+    }, {
+        "id": "3.12",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Remove UX team members not carrying their weight",
+            "body": "Teams are as effective as their worst performing members. Find alternative positions or relieve those who hold back the team.",
+            "success": "Team morale and productivity improves as they no longer have to cover for under performers."
+        }
+    }, {
+        "id": "3.13",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute regular career discussions during one-on-ones",
+            "body": "Work with direct reports on where they’d like their careers to go.",
+            "success": "You can guide direct reports to take on assignments that will give them experience building appropriate new skills."
+        }
+    }, {
+        "id": "3.14",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Develop community of practice program to connect all embedded designers",
+            "body": "Put together activities that allow embedded designers to engage with designers in other parts of the organization.",
+            "success": "Embedded designers are sharing their work and reaching out to others when encountering challenges."
+        }
+    }, {
+        "id": "3.15",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+
+            "title": "Institute support call listening program",
+            "body": "Work with the support organization to expose team members and others to calls.",
+            "success": "Teams prioritize problems they’ve heard into their project work."
+        }
+    }, {
+        "id": "3.16",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute separating critique from design reviews",
+            "body": "Adopt a philosophy that critique is for sharing design decisions and techniques, while design reviews are for deciding if a design is ready to move to the next stage.",
+            "success": "Team members don’t feel judged during critique sharing session, and are better prepared for design reviews."
+        }
+    }, {
+        "id": "3.17",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Build infrastructure for embedded designers to continuously interact with internal service designers",
+            "body": "Employ communication tools and regular interactions between embedded and internal service designers.",
+            "success": "The two groups of designers support each other’s work and growth."
+        }
+    }, {
+        "id": "3.18",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Initiate ongoing passive recruiting program to create a designer pipeline",
+            "body": "Create sharing programs that describe the interesting work your team does to attract high-end talent.",
+            "success": "You have people constantly asking if you’re hiring and highly- qualified candidates fill your pipeline for new openings."
+        }
+    }, {
+        "id": "3.19",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Integrate multi-variant tests with qualitative research to learn why variants work",
+            "body": "As your team tests multiple variations, conduct usability tests to see why the results come in the way they do.",
+            "success": "Teams understand why certain variations outperform others. They create new variations that continue to perform well."
+        }
+    }, {
+        "id": "3.20",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute culture of constant design education to all members of embedded team",
+            "body": "Use techniques for increasing design literacy to help developers, PMs, and other non-designers learn basics.",
+            "success": "Other members of the embedded teams confidently contribute to the product/service design."
+        }
+    }, {
+        "id": "3.21",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute preparation of UX team members to be awesome at their next job",
+            "body": "Adopt a philosophy of constant improvement of all team members, to ensure they leave better than they arrived.",
+            "success": "Preparing for their next job, they’re performing well in this job. Retention is higher due to increased career support."
+        }
+    }, {
+        "id": "3.22",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Surface causality behind design decisions",
+            "body": "Track design decisions that take place during the development process. When possible, tie outcomes to specific decisions.",
+            "success": "People who don’t know the importance of design realize they are making decisions with downstream effects."
+        }
+    },
+    {
+        "id": "3.23",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Only hire developers and product managers with solid design skills",
+            "body": "Change the hiring process to only bring on new talent with experience of creating great designs on their own.",
+            "success": "Great design ideas and approaches are regularly coming from the non-designers on the teams."
+        }
+    }, {
+        "id": "3.24",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute “making” as a thinking process",
+            "body": "When important design decisions need to be made, use a prototyping or other physical representation to show alternatives and work out decision criteria.",
+            "success": "Non-designer coworkers can see into the design process better and have a better appreciation for how it’s done."
+        }
+    }, {
+        "id": "3.25",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Stop giving recommendations",
+            "body": "Instead, present observations to the team (or better, involve them in collecting observations) and let them come up with their own recommendations.",
+            "success": "Team members are more likely to have ownership in the outcomes and take the recommendations seriously."
+        }
+    }, {
+        "id": "3.26",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute regular explicit reflection program",
+            "body": "Give team members time to reflect on their recent experience and what they’ve learned.",
+            "success": "Team members are learning more and deeper lessons from recent work, thereby improving faster."
+        }
+    }, {
+        "id": "3.27",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Critique artifacts and deliverables for effectiveness",
+            "body": "Regularly look at commonly used artifacts and deliverables to see where the team can make improvements.",
+            "success": "Team members learn where quality artifacts and deliverables improve service, and where they don’t."
+        }
+    }, {
+        "id": "3.28",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute designer understudy program",
+            "body": "Have ‘understudies’ assigned to each designer and conduct regular briefings on their specific project work.",
+            "success": "One designer can step in for another when an emergency comes up, plus they learn from each other’s work."
+        }
+    },
+    {
+        "id": "3.29",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute Gallup Q12 surveys to assess UX team engagement",
+            "body": "Regularly measure the employee engagement of the team, to see where you can make improvements.",
+            "success": "You see happier employees, better retention, and better quality work."
+        }
+    }, {
+        "id": "3.30",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute top-skill mentorship regimen",
+            "body": "Have individuals with particular high skills act as mentors to others in the organization without those skills.",
+            "success": "Lesser skilled individuals are improving under the direction of their highly skilled mentors."
+        }
+    }, {
+        "id": "3.31",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Identify domain specialties for incoming designers",
+            "body": "Instead of hiring only for design skills, identify domain specialties (such as finance or healthcare) that would assist with the work.",
+            "success": "Team capability grows because new design talent has specialized knowledge. Reduces on-boarding time."
+        }
+    }, {
+        "id": "3.32",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Dedicate a team to improve UX process",
+            "body": "Assign a small team to focus full-time on studying and improving the current UX processes.",
+            "success": "Using UX techniques to study the UX process often results in huge efficiency improvements and better collaboration."
+        }
+    }, {
+        "id": "3.33",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Initiate within-organization cross pollination program",
+            "body": "Have people from distant parts of the organization spend time with your team, while your people spend time with theirs.",
+            "success": "Your team members become smarter about how the overall organization works and have improved networks."
+        }
+    }, {
+        "id": "3.34",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute performance-based hiring program",
+            "body": "Adopt a structured, well-designed hiring process that uses comparable performance criteria to locate and hire the most effective candidates.",
+            "success": "Your applicant pool produces higher performing new talent."
+        }
+    },
+    {
+        "id": "3.35",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute basic design literacy requirements into hiring for all organization positions",
+            "body": "Work with HR to adopt knowledge and skills for basic design from all future positions.",
+            "success": "Every new member of the organization understands design and perform has basic design skill and knowledge."
+        }
+    }, {
+        "id": "3.36",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Establish intentional Design Leadership track",
+            "body": "Define the paths for promotion of design leaders within the organization.",
+            "success": "It’s clear to budding design leaders what they need to do to attain the next level of leadership."
+        }
+    }, {
+        "id": "3.37",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Make portfolio update and review part of performance reviews",
+            "body": "At their performance reviews, have team members update and present their portfolios, to ensure they’ve captured their best work.",
+            "success": "Every employee understands how to talk about their contribution to the team’s overall efforts."
+        }
+    },
+    {
+        "id": "3.38",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Make management positions a lateral move from designer positions",
+            "body": "Equal salary & track rank for managers & designers. Designers move from designing for products to designing for people.",
+            "success": "Designers choose management track because they want to contribute their skills to making the team more effective."
+        }
+    },
+    {
+        "id": "3.39",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Institute program for everyone to answer support emails and calls",
+            "body": "Entire organization shares responsibility for answering support questions on a regular schedule. Enhances user exposure.",
+            "success": "Designers, developers, and product managers regularly refer to customers they met while supporting their issues."
+        }
+    }, {
+        "id": "3.40",
+        "stages": {
+            "competence": [0, 1],
+            "literacy": 0,
+            "team": 1
+        },
+        "content": {
+            "title": "Introduce UX improvement of products/services as a main measure on performance reviews",
+            "body": "Every team member is now assessed on their contribution to improving the user experience of the products & services they work on.",
+            "success": "The organization’s recognition of career success is aligned with making great experiences for users and customers."
+        }
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "competence": [
+        "Unconcious Incompetence",
+        "Concious Incompetence",
+        "Concious Competence",
+        "Unconcious Competence"
+    ],
+    "literacy": [
+        "Literacy",
+        "Fluency",
+        "Mastery"
+    ],
+    "team": [
+        "Dark Ages: No UX Design",
+        "Spot UX Design",
+        "UX Design as a Service",
+        "Embeded UX Design",
+        "Infused UX Design"
+    ]
+}

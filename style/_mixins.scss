@@ -1,0 +1,31 @@
+@mixin chevron($color) {
+    background: $color;
+
+    &:nth-child(even) {
+        &:after {
+            border-top-color: $color;
+            border-bottom-color: $color;
+            border-right-color: $color;
+        }
+    }
+
+    &:nth-child(odd) {
+        $color: darken($color, 10);
+        background-color: $color;
+
+        &:after {
+            border-top-color: $color;
+            border-bottom-color: $color;
+            border-right-color: $color;
+        }
+    }
+
+    &:last-child {
+        &:before {
+            border-top-color: #fff;
+            border-bottom-color: #fff;
+            border-right-color: #fff;
+            right: 0;
+        }
+    }
+}
